@@ -1,0 +1,8 @@
+{
+    "name": "Bisrat",
+ "age": 30,
+  "is_student": true,
+   "address": {"city": "Addis Ababa", "country": "Ethiopia", "zip_code": "1000"}, 
+   "languages": ["Java", "JavaScript", "Dart"]
+ }
+    
